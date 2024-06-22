@@ -1,0 +1,28 @@
+.wrapper {
+    width: 400px;
+    margin: 0 auto;
+    background-color: rgb(178, 202, 247);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 0.9ch;
+    height: 200px;
+    justify-content: center;
+  }
+  
+  .row {
+    margin-bottom: 15px;
+  }
+  
+  .errorMessage {
+    color: red;
+    margin-bottom: 15px;
+  }
+  
+  .button button:disabled {
+    background-color:rgb(97, 97, 104);
+    color: white;
+    border-radius: 0.5ch;
+  }
+
+  

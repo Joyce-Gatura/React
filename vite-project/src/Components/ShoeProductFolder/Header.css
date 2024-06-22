@@ -1,0 +1,12 @@
+/* src/components/Header.css */
+.header {
+    background-color: #f26d3e;
+    padding: 20px;
+    text-align: center;
+}
+
+.logo {
+    font-size: 2em;
+    color: #fff;
+    margin: 0;
+}

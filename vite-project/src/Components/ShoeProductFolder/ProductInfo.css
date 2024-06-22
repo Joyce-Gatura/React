@@ -1,0 +1,12 @@
+.product-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px;
+} 
+
+@media (min-width: 500px) {
+    .product-info {
+        flex-direction:column;
+    }
+} 
