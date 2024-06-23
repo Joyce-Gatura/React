@@ -1,5 +1,4 @@
-/* eslint-disable react/prop-types */
-// src/components/ProductDetails.js
+
 import React from 'react';
 import './ProductDetails.css';
 
@@ -31,7 +30,7 @@ const ProductDetails = ({ selectedColor, setSelectedColor }) => {
                 </div>
             </div>
             <div className="price">
-                <span>Ksh. 1200</span>
+                <span>Ksh. 2000</span>
                 <button>BUY NOW</button>
             </div>
         </div>

@@ -50,6 +50,7 @@ const initialStories = [
       <LoginForm/>
       <hr />
       <ProductInfo/>
+      <hr />
     </div>
   );
 }

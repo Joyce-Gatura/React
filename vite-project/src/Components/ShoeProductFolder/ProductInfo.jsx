@@ -8,7 +8,7 @@ import shoeRed from './assets/shoe-red.png';
 import shoeOrange from './assets/shoe-orange.png';
 
 const ProductInfo = () => {
-    const [selectedColor, setSelectedColor] = useState('orange');
+    const [selectedColor, setSelectedColor] = useState('red');
 
     const shoeImages = {
         black: shoeBlack,
