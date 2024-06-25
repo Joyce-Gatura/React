@@ -1,8 +1,23 @@
-# React + Vite
+## REACT PROJECTS:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Items filter $$ Login functionalities.
+![item filter and login functionalities](https://github.com/Joyce-Gatura/React/assets/160253116/f764c30b-5561-480e-9848-607cecf87144)
 
-Currently, two official plugins are available:
+## Shoes Product Web Page.
+Switch through the buttons to see available color respectively.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+![blackOption](https://github.com/Joyce-Gatura/React/assets/160253116/d80795b9-29e4-4ef4-ab0b-b26777b6aed7)
+
+
+
+![shoe products](https://github.com/Joyce-Gatura/React/assets/160253116/401ea0a6-8647-462e-abcb-4ed7813ae2a4)
+
+
+
+![brown option](https://github.com/Joyce-Gatura/React/assets/160253116/05d3fd44-51a2-446d-a81d-22cda0146b5b)
+
+## Ecommerce Product Filter.
+
+
+![E-commerce product Filter](https://github.com/Joyce-Gatura/React/assets/160253116/a89a9f3e-b3ad-42fa-bf5e-e4ec5426357e)
